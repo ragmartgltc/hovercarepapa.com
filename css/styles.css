@@ -9,7 +9,7 @@
 }
 #cont-principal:hover{
     background: rgb(171, 231, 255);
-    border-radius:51% 49% 70% 30% / 63% 39% 61% 37% ;
+    border-radius:30% 100% 30% 100% ;
     
     border: 7px solid #555;
     transition: all .7s linear;
